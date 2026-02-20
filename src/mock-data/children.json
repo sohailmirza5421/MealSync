@@ -1,0 +1,14 @@
+[
+  {
+    "id": "c1",
+    "name": "Emma",
+    "allergens": ["peanuts", "dairy"],
+    "dietaryPreference": "vegetarian"
+  },
+  {
+    "id": "c2",
+    "name": "Liam",
+    "allergens": ["gluten"],
+    "dietaryPreference": "halal"
+  }
+]

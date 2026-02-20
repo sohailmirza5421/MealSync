@@ -1,0 +1,74 @@
+[
+  {
+    "id": "m1",
+    "name": "Grilled Chicken Wrap",
+    "price": 8.5,
+    "cuisineTag": "Western",
+    "allergens": ["gluten", "dairy"],
+    "dietaryTags": ["halal"],
+    "isActive": true
+  },
+  {
+    "id": "m2",
+    "name": "Veggie Buddha Bowl",
+    "price": 9.0,
+    "cuisineTag": "Fusion",
+    "allergens": [],
+    "dietaryTags": ["vegetarian", "vegan", "gluten-free"],
+    "isActive": true
+  },
+  {
+    "id": "m3",
+    "name": "Cheese Quesadilla",
+    "price": 7.0,
+    "cuisineTag": "Mexican",
+    "allergens": ["gluten", "dairy"],
+    "dietaryTags": ["vegetarian"],
+    "isActive": true
+  },
+  {
+    "id": "m4",
+    "name": "Beef & Rice Bowl",
+    "price": 9.5,
+    "cuisineTag": "Asian",
+    "allergens": ["soy"],
+    "dietaryTags": ["halal"],
+    "isActive": true
+  },
+  {
+    "id": "m5",
+    "name": "Peanut Noodles",
+    "price": 7.5,
+    "cuisineTag": "Asian",
+    "allergens": ["peanuts", "gluten", "soy"],
+    "dietaryTags": ["vegetarian"],
+    "isActive": true
+  },
+  {
+    "id": "m6",
+    "name": "Salmon Salad",
+    "price": 10.0,
+    "cuisineTag": "Western",
+    "allergens": ["fish"],
+    "dietaryTags": ["gluten-free"],
+    "isActive": true
+  },
+  {
+    "id": "m7",
+    "name": "Falafel Pita",
+    "price": 8.0,
+    "cuisineTag": "Middle Eastern",
+    "allergens": ["gluten", "sesame"],
+    "dietaryTags": ["vegetarian", "halal"],
+    "isActive": false
+  },
+  {
+    "id": "m8",
+    "name": "Turkey Sandwich",
+    "price": 7.5,
+    "cuisineTag": "Western",
+    "allergens": ["gluten", "dairy"],
+    "dietaryTags": ["halal"],
+    "isActive": true
+  }
+]
