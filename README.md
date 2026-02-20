@@ -25,5 +25,5 @@ A React Native Expo app built with TypeScript for managing meal menus with child
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/sohailmirza5421/MealSync.git
    cd mealsync
